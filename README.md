@@ -3,10 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiez93&label=Profile%20views&color=0e75b6&style=flat" alt="jdiez93" /> </p>
 
+- 📍 Madrid
+
 - 🌱 Actualmente estoy aprendiendo **Lenguajes de Programacion,Frameworks...**
 
 - 📫 Contactame en **jorgedesarrolloweb@gmail.com**
 
+- 💻 Joven con muchas ganas de aprender!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
