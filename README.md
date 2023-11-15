@@ -5,11 +5,11 @@
 
 - 📍 Madrid
 
+- 💻 Joven con muchas ganas de aprender!!
+  
 - 🌱 Actualmente estoy aprendiendo **Lenguajes de Programacion,Frameworks...**
 
 - 📫 Contactame en **jorgedesarrolloweb@gmail.com**
-
-- 💻 Joven con muchas ganas de aprender!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
