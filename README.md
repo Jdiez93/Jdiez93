@@ -9,8 +9,6 @@
   
 - 🌱 Actualmente estoy aprendiendo **Lenguajes de Programacion,Frameworks...**
 
--  📄 Curriculum [file:///C:/Users/jorge/OneDrive/Im%C3%A1genes/Curriculum%20CV2.pdf](file:///C:/Users/jorge/OneDrive/Im%C3%A1genes/Curriculum%20CV2.pdf)
-
 - 📫 Contactame en **jorgedesarrolloweb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
