@@ -9,6 +9,8 @@
   
 - 🌱 Actualmente estoy aprendiendo **Lenguajes de Programacion,Frameworks...**
 
+- 📄 Mi Curriculum [https://www.canva.com/design/DAFPqL7ILdk/5cXSsdvec4NLpEgrddbJeQ/view](https://www.canva.com/design/DAFPqL7ILdk/5cXSsdvec4NLpEgrddbJeQ/view)
+
 - 📫 Contactame en **jorgedesarrolloweb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
