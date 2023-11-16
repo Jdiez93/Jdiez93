@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jorge diez rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge diez rodriguez" height="30" width="40" /></a>
 <a href="https://instagram.com/milinco_93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milinco_93" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucra9jve_7mowhkhn8fn7hnq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucra9jve_7mowhkhn8fn7hnq" height="30" width="40" /></a>
 <a href="https://discord.gg/milinco#3410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="milinco#3410" height="30" width="40" /></a>
 </p>
 
