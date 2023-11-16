@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/O1DXPrj)
+[Imgur](https://i.imgur.com/O1DXPrj.png)
 
 <h1 align="center">ℋ𝑜𝓁𝒶!👋  𝓈𝑜𝓎 𝒥𝑜𝓇𝑔𝑒 𝒟𝒾𝑒𝓏 ℛ𝑜𝒹𝓇𝒾𝑔𝓊𝑒𝓏</h1>
 <h3 align="center">𝘿𝙚𝙨𝙖𝙧𝙧𝙤𝙡𝙡𝙖𝙙𝙤𝙧 𝙙𝙚 𝙋𝙖𝙜𝙞𝙣𝙖𝙨 𝙒𝙚𝙗</h3>
