@@ -7,13 +7,13 @@
 
 - 📍 Madrid
 
-- 💻 Joven con muchas ganas de aprender!!
+- 💻 Joven con un ciclo de desarrollo de aplicaciones web!!
   
 - 🌱 Actualmente estoy aprendiendo **Lenguajes de Programacion,Frameworks...**
 
 - 📄 Mi Curriculum [https://www.canva.com/design/DAGTohpc_JA/JHVK_mlG-aw9nNksbKa64w/view?utm_content=DAGTohpc_JA&utm_campaign=designshare&utm_medium=link&utm_source=editor]
 
-- 📫 Contactame en **jorgedesarrolloweb@gmail.com**
+- 📫 Contactame en **jorgediezrodriguez2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
