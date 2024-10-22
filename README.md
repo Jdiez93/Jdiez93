@@ -11,7 +11,7 @@
   
 - 🌱 Actualmente estoy aprendiendo **Lenguajes de Programacion,Frameworks...**
 
-- 📄 Mi Curriculum [[https://www.canva.com/design/DAFPqL7ILdk/5cXSsdvec4NLpEgrddbJeQ/view](https://www.canva.com/design/DAFPqL7ILdk/5cXSsdvec4NLpEgrddbJeQ/view](https://www.canva.com/design/DAGTohpc_JA/JHVK_mlG-aw9nNksbKa64w/view?utm_content=DAGTohpc_JA&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+- 📄 Mi Curriculum [https://www.canva.com/design/DAGTohpc_JA/JHVK_mlG-aw9nNksbKa64w/view?utm_content=DAGTohpc_JA&utm_campaign=designshare&utm_medium=link&utm_source=editor]
 
 - 📫 Contactame en **jorgedesarrolloweb@gmail.com**
 
