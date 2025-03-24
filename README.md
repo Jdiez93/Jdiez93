@@ -9,7 +9,7 @@
 
 - 💻 Joven con un ciclo de desarrollo de aplicaciones web!!
   
-- 🌱 Actualmente estoy aprendiendo **Lenguajes de Programacion,Frameworks...**
+- 🌱 Actualmente soy desarrollador de aplicaciones web con conocimientos de  **Lenguajes de Programacion,Frameworks, base de datos...**
 
 - 📄 Mi Curriculum [https://www.canva.com/design/DAGTohpc_JA/JHVK_mlG-aw9nNksbKa64w/view?utm_content=DAGTohpc_JA&utm_campaign=designshare&utm_medium=link&utm_source=editor]
 
