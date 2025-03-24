@@ -7,7 +7,7 @@
 
 - 📍 Madrid
 
-- 💻 Joven con un ciclo de desarrollo de aplicaciones web!!
+- 💻 Titulado en ciclo de grado superior de Desarrollo de aplicaciones web
   
 - 🌱 Actualmente soy desarrollador de aplicaciones web con conocimientos de  **Lenguajes de Programacion,Frameworks, base de datos...**
 
