@@ -104,4 +104,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdiez93&show_icons=true&locale=en&layout=compact" alt="jdiez93" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdiez93&" alt="jdiez93" /></p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdiez93&show_icons=true&locale=en" alt="jdiez93" /></p>
