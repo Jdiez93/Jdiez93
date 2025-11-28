@@ -17,7 +17,7 @@
 
 - 🎯 Specialized in: Artificial Intelligence
 
-- 🎯 Native Spanish, with a high level of English (C1) and experience in Ireland.
+- 🗣️ Native Spanish, with a high level of English (C1) and experience in Ireland.
 
 - 🚀 In continuous training and looking for new professional challenges.
 
