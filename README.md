@@ -30,9 +30,7 @@
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" />
 </a>
 
-<a href="https://www.infojobs.net/candidate/cv/view/index.xhtml" target="_blank">
-  <img src="https://cdn.simpleicons.org/infojobs/0072c6" width="40" />
-</a>
+
 
 
 <h1 align="left"> 💻 Habilidades como progrmador: </h1>
