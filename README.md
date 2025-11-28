@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiez93&label=Profile%20views&color=0e75b6&style=flat" alt="jdiez93" /> </p>
 
 
-<h1 align="left"> 🌐 Conecta conmigo </h1>
+<h1 align="left"> 🌐 Conecta conmigo: </h1>
 
 
 <h1 align="left"> 💻 Habilidades como progrmador: </h1>
