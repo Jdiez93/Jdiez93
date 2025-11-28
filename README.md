@@ -114,7 +114,8 @@
 
 <table>
   <tr>
-    <td align="center">
+    <!-- Proyecto 1 -->
+    <td align="center" width="50%">
       <img src="https://i.postimg.cc/sxbdfSGH/Proyecto-Espacio.png" width="300"><br><br>
       <a href="https://proyecto-espacio.vercel.app/">
         <img src="https://img.shields.io/badge/🌐 Ver%20Página-2ea44f?style=for-the-badge">
@@ -123,12 +124,9 @@
         <img src="https://img.shields.io/badge/📁 Repositorio-0366d6?style=for-the-badge">
       </a>
     </td>
-  </tr>
-</table>
 
-<table>
-  <tr>
-    <td align="right">
+    
+   <td align="center" width="50%">
       <img src="https://i.postimg.cc/HkNvwPfg/Fisio-Garcy.png" width="300"><br><br>
       <a href="https://fisiomarcosgarcia.vercel.app/">
         <img src="https://img.shields.io/badge/🌐 Ver%20Página-2ea44f?style=for-the-badge">
@@ -139,6 +137,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
