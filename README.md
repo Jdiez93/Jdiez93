@@ -1,3 +1,6 @@
+![Jorge Diez Banner](https://i.postimg.cc/26mzYwrW/Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige.gif)
+
+
 <h1 align="center">Hola 👋, soy Jorge Diez Rodríguez</h1>
 <h3 align="center">Soy un desarrollador web apasionado por crear experiencias digitales útiles, accesibles y bien estructuradas. Trabajo con tecnologías modernas tanto en frontend como en backend, priorizando siempre la funcionalidad, la claridad del código y la buena arquitectura. Me motiva aprender continuamente, enfrentar nuevos retos y construir proyectos que aporten valor real a los usuarios.</h3>
 
