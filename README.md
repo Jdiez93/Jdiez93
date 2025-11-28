@@ -115,11 +115,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/600x300.png?text=Proyecto" width="500"><br><br>
-      <a href="https://tupagina.com">
+      <img src="https://i.postimg.cc/sxbdfSGH/Proyecto-Espacio.png" width="500"><br><br>
+      <a href="https://proyecto-espacio.vercel.app/">
         <img src="https://img.shields.io/badge/🌐 Ver%20Página-2ea44f?style=for-the-badge">
       </a>
-      <a href="https://github.com/usuario/repositorio">
+      <a href="https://github.com/Jdiez93/ProyectoEspacio">
         <img src="https://img.shields.io/badge/📁 Repositorio-0366d6?style=for-the-badge">
       </a>
     </td>
