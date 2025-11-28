@@ -12,6 +12,8 @@
 
 - 💬 Pregúntame sobre: **React, Vue.js, Java, Astro, Mongo, MySql...**
 
+- 🎯 Especializado en: Inteligencia Artificial
+
 - 📃 Aquí te dejo mi Portfolio **https://jdr93portfolio.vercel.app/**
 
 - 📩 Contáctame **jorgediezrodriguez2004@gmail.com**
