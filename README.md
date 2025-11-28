@@ -3,6 +3,12 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc2d25vOXpuZXhtdHBiZWRhaW0ydjdrMGU1NzlyZGQyM3V2Z2RpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
+
+
+
+
+
+
 <h1 align="left"> 🤵 Sobre mi: </h1>
 
 - 👨‍🎓 Desarrollo de aplicaciones web | Curso de ciberseguridad | Máster en Inteligencia Artificial
