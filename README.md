@@ -3,7 +3,7 @@
 
 
 
-
+- 👨‍🎓 Desarrollo de aplicaciones web | Curso de ciberseguridad | Máster en Inteligencia Artificial
 
 - 💬 Pregúntame sobre: **React, Vue.js, Java, Astro, Mongo, MySql...**
 
