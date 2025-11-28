@@ -19,6 +19,10 @@
 
 - 🗣️ Native Spanish, with a high level of English (C1) and experience in Ireland.
 
+- ⚡ I adapt quickly to new environments and technologies, and I love keeping up with the latest trends in IA, DevOps and web development.
+
+- 💼 I enjoy teamwork, good communication and creating technology that has a real impact on users.
+
 - 🚀 In continuous training and looking for new professional challenges.
 
 - 📃 My Portfolio **https://jdr93portfolio.vercel.app/**
