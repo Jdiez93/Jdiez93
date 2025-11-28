@@ -146,16 +146,7 @@
 
 <h1 align="left"> 📊 Estadisticas GitHub: </h1>
 
-<div align="center">
-  <picture>
-    <!-- Modo oscuro -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jdiez93/Jdiez93/output/github-snake-dark.svg">
-    <!-- Modo claro -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jdiez93/Jdiez93/output/github-snake.svg">
-    <!-- Fallback -->
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Jdiez93/Jdiez93/output/github-snake.svg">
-  </picture>
-</div>
+
 
 
 
