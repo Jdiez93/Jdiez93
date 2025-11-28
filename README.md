@@ -14,6 +14,8 @@
 
 - 🎯 Especializado en: Inteligencia Artificial
 
+- 🚀 En contínua formación y buscando nuevos retos profesionales.
+
 - 📃 Aquí te dejo mi Portfolio **https://jdr93portfolio.vercel.app/**
 
 - 📩 Contáctame **jorgediezrodriguez2004@gmail.com**
