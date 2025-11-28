@@ -11,17 +11,19 @@
 
 <h3 align="left"> 🤵 About me: </h3>
 
-- 👨‍🎓 Desarrollo de aplicaciones web | Curso de ciberseguridad | Máster en Inteligencia Artificial
+- 👨‍🎓 Web application development | Cybersecurity course | Master in Artificial Intelligence
 
-- 💬 Pregúntame sobre: **React, Vue.js, Java, Astro, Mongo, MySql...**
+- 💬 Ask me, about: **React, Vue.js, Java, Astro, Mongo, MySql...**
 
-- 🎯 Especializado en: Inteligencia Artificial
+- 🎯 Specialized in: Artificial Intelligence
 
-- 🚀 En contínua formación y buscando nuevos retos profesionales.
+- 🎯 Native Spanish, with a high level of English (C1) and experience in Ireland.
 
-- 📃 Aquí te dejo mi Portfolio **https://jdr93portfolio.vercel.app/**
+- 🚀 In continuous training and looking for new professional challenges.
 
-- 📩 Contáctame **jorgediezrodriguez2004@gmail.com**
+- 📃 My Portfolio **https://jdr93portfolio.vercel.app/**
+
+- 📩 Contact me: **jorgediezrodriguez2004@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiez93&label=Profile%20views&color=0e75b6&style=flat" alt="jdiez93" /> </p>
 
