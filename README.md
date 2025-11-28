@@ -146,6 +146,8 @@
 
 <h1 align="left"> 📊 Estadisticas GitHub: </h1>
 
+![snake animation](https://github.com/<seu Jdiez93>/<seu Jdiez93>/blob/output/github-contribution-grid-snake2.svg)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdiez93" alt="jdiez93" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdiez93&show_icons=true&locale=en&layout=compact" alt="jdiez93" /></p>
