@@ -110,6 +110,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
+<h1 align="left">  Algunos proyectos: </h1>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://via.placeholder.com/600x300.png?text=Proyecto" width="500"><br><br>
+      <a href="https://tupagina.com">
+        <img src="https://img.shields.io/badge/🌐 Ver%20Página-2ea44f?style=for-the-badge">
+      </a>
+      <a href="https://github.com/usuario/repositorio">
+        <img src="https://img.shields.io/badge/📁 Repositorio-0366d6?style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <h1 align="left"> 📊 Estadisticas GitHub: </h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdiez93" alt="jdiez93" /></a> </p>
