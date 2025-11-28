@@ -115,7 +115,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://i.postimg.cc/sxbdfSGH/Proyecto-Espacio.png" width="500"><br><br>
+      <img src="https://i.postimg.cc/sxbdfSGH/Proyecto-Espacio.png" width="300"><br><br>
       <a href="https://proyecto-espacio.vercel.app/">
         <img src="https://img.shields.io/badge/🌐 Ver%20Página-2ea44f?style=for-the-badge">
       </a>
