@@ -1,15 +1,15 @@
 ![Jorge Diez Banner](https://i.postimg.cc/26mzYwrW/Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige.gif)
 
 
-<h1 align="center">Hola 👋, soy Jorge Diez Rodríguez</h1>
-<h3 align="center">Soy un desarrollador web apasionado por crear experiencias digitales útiles, accesibles y bien estructuradas. Trabajo con tecnologías modernas tanto en frontend como en backend, priorizando siempre la funcionalidad, la claridad del código y la buena arquitectura. Me motiva aprender continuamente, enfrentar nuevos retos y construir proyectos que aporten valor real a los usuarios.</h3>
+<h1 align="center">Hello 👋, I am Jorge Diez Rodríguez</h1>
+<h3 align="center">I am a web developer passionate about creating useful, accessible and well-structured digital experiences. I work with modern technologies in both frontend and backend, always prioritizing functionality, code clarity and good architecture. I am motivated to continually learn, face new challenges and build projects that provide real value to users.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc2d25vOXpuZXhtdHBiZWRhaW0ydjdrMGU1NzlyZGQyM3V2Z2RpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
 
-<h3 align="left"> 🤵 Sobre mi: </h3>
+<h3 align="left"> 🤵 About me: </h3>
 
 - 👨‍🎓 Desarrollo de aplicaciones web | Curso de ciberseguridad | Máster en Inteligencia Artificial
 
@@ -27,7 +27,7 @@
 
 
 
-<h1 align="left"> 🌐 Conecta conmigo: </h1>
+<h1 align="left"> 🌐 Connect with me: </h1>
 
 <a href="https://www.linkedin.com/in/jorge-diez-rodriguez-4a7844293/" target="_blank">
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" />
@@ -40,7 +40,7 @@
 
 
 
-<h1 align="left"> 💻 Habilidades como progrmador: </h1>
+<h1 align="left"> 💻 Programmer skills: </h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -115,7 +115,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-<h1 align="left"> 🛠️ Algunos proyectos: </h1>
+<h1 align="left"> 🛠️ Some Projects: </h1>
 
 <table>
   <tr>
@@ -149,7 +149,7 @@
 
 
 
-<h1 align="left"> 📊 Estadisticas GitHub: </h1>
+<h1 align="left"> 📊 Github Statistics: </h1>
 
 
 
