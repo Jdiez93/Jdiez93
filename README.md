@@ -110,7 +110,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-<h1 align="left">  Algunos proyectos: </h1>
+<h1 align="left"> 🛠️ Algunos proyectos: </h1>
 
 <table>
   <tr>
