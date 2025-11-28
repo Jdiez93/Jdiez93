@@ -6,9 +6,6 @@
 
 
 
-
-
-
 <h1 align="left"> 🤵 Sobre mi: </h1>
 
 - 👨‍🎓 Desarrollo de aplicaciones web | Curso de ciberseguridad | Máster en Inteligencia Artificial
@@ -22,7 +19,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiez93&label=Profile%20views&color=0e75b6&style=flat" alt="jdiez93" /> </p>
 
 
+
 <h1 align="left"> 🌐 Conecta conmigo: </h1>
+
+<a href="https://www.linkedin.com/in/jorge-diez-rodriguez-4a7844293/" target="_blank">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="40" />
+</a>
+
+<a href="https://instagram.com/milinco_93" target="_blank">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" />
+</a>
 
 
 <h1 align="left"> 💻 Habilidades como progrmador: </h1>
