@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml" target="_blank">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/infojobs.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Infojobs_logo.svg" width="80" />
 </a>
 
 
