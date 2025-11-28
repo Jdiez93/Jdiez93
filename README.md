@@ -2,6 +2,7 @@
 <h3 align="center">Desarrollador Full Stack, apasionado de la programación y trabajo en equipo.</h3>
 
 
+<h1 align="left"> 🤵 Sobre mi: </h1>
 
 - 👨‍🎓 Desarrollo de aplicaciones web | Curso de ciberseguridad | Máster en Inteligencia Artificial
 
