@@ -9,7 +9,7 @@
 
 
 
-<h1 align="left"> 🤵 Sobre mi: </h1>
+<h3 align="left"> 🤵 Sobre mi: </h3>
 
 - 👨‍🎓 Desarrollo de aplicaciones web | Curso de ciberseguridad | Máster en Inteligencia Artificial
 
