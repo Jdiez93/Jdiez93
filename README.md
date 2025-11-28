@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jorge Diez Rodríguez</h1>
 <h3 align="center">Soy un desarrollador web apasionado por crear experiencias digitales útiles, accesibles y bien estructuradas. Trabajo con tecnologías modernas tanto en frontend como en backend, priorizando siempre la funcionalidad, la claridad del código y la buena arquitectura. Me motiva aprender continuamente, enfrentar nuevos retos y construir proyectos que aporten valor real a los usuarios.</h3>
 
-<img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc2d25vOXpuZXhtdHBiZWRhaW0ydjdrMGU1NzlyZGQyM3V2Z2RpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc2d25vOXpuZXhtdHBiZWRhaW0ydjdrMGU1NzlyZGQyM3V2Z2RpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
