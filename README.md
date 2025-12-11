@@ -166,7 +166,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdiez93&show_icons=true&locale=en" alt="jdiez93" /></p>
 
+<h1 align="left"> 🏆 Achievements and certifications </h1>
 
+
+- 🎓 Higher Degree in Web Application Development (DAWE)
+- 🛡️ Specialized Cybersecurity Course (Cisco Networking Academy)
+- 🤖 Master in Artificial Intelligence (Big School University)
+- 🗣️ C1 certified English with international experience in Ireland
 
 
 
