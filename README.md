@@ -175,8 +175,12 @@
 - 🗣️ C1 certified English with international experience in Ireland
 
 
+<h1 align="left"> ❤ ️ Support my work </h1>
+If my projects inspire you or have been useful to you, you can support my work: 
+- ⭐ Give my repositories a star to help them grow 
+- 🔗 Share my projects or portfolio with other developers 
 
-
+Your support motivates me to continue creating, learning and sharing technology with the community. 🚀
 
 
 
