@@ -1,7 +1,8 @@
 ![Jorge Diez Banner](https://i.postimg.cc/26mzYwrW/Banner-para-Linkedin-Licenciada-Marketing-Minimalista-Beige.gif)
 
 
-<h1 align="center">Hello 👋, I am Jorge Diez Rodríguez</h1>
+<h1 align="center">Hello 👋, I am Jorge Diez Rodríguez</h1> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiez93&label=Profile%20views&color=0e75b6&style=flat" alt="jdiez93" /> </p>
 <h3 align="center">I am a web developer passionate about creating useful, accessible and well-structured digital experiences. I work with modern technologies in both frontend and backend, always prioritizing functionality, code clarity and good architecture. I am motivated to continually learn, face new challenges and build projects that provide real value to users.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc2d25vOXpuZXhtdHBiZWRhaW0ydjdrMGU1NzlyZGQyM3V2Z2RpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -29,7 +30,6 @@
 
 - 📩 Contact me: **jorgediezrodriguez2004@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdiez93&label=Profile%20views&color=0e75b6&style=flat" alt="jdiez93" /> </p>
 
 
 
