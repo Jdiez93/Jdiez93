@@ -131,11 +131,11 @@
   <tr>
     <!-- Proyecto 1 -->
     <td align="center" width="50%">
-      <img src="https://i.postimg.cc/sxbdfSGH/Proyecto-Espacio.png" width="300"><br><br>
-      <a href="https://proyecto-espacio.vercel.app/">
+      <img src="https://i.ibb.co/fzXmZStK/aura.png" width="300"><br><br>
+      <a href="https://aurabarber.vercel.app/">
         <img src="https://img.shields.io/badge/🌐 Ver%20Página-2ea44f?style=for-the-badge">
       </a>
-      <a href="https://github.com/Jdiez93/ProyectoEspacio">
+      <a href="https://github.com/Jdiez93/auraBarber">
         <img src="https://img.shields.io/badge/📁 Repositorio-0366d6?style=for-the-badge">
       </a>
     </td>
