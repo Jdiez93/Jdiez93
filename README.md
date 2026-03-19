@@ -25,7 +25,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Applied%20AI-blue?style=flat-square&logo=openai" />
   <img src="https://img.shields.io/badge/Core%20Competency-Automation-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stack-No%20Code%20%26%20Low%20Code-green?style=flat-square" />
 </p>
 
 Through a Master's program focused on **IA Aplicada a Producto** (AI Applied to Product), I have developed a hands-on skillset to leverage advanced AI models in real-world product workflows and development:
