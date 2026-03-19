@@ -70,30 +70,46 @@ This training has equipped me to not just build digital experiences, but to opti
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://i.ibb.co/fzXmZStK/aura.png" width="100%"><br><br>
-      <a href="https://aurabarber.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐%20Ver%20Página-2ea44f?style=for-the-badge">
-      </a>
-      <a href="https://github.com/Jdiez93/auraBarber">
-        <img src="https://img.shields.io/badge/📁%20Repositorio-0366d6?style=for-the-badge">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://i.postimg.cc/HkNvwPfg/Fisio-Garcy.png" width="100%"><br><br>
-      <a href="https://fisiomarcosgarcia.vercel.app/">
-        <img src="https://img.shields.io/badge/🌐%20Ver%20Página-2ea44f?style=for-the-badge">
-      </a>
-      <a href="https://github.com/Jdiez93/FisioMarcosGarc-a">
-        <img src="https://img.shields.io/badge/📁%20Repositorio-0366d6?style=for-the-badge">
-      </a>
-    </td>
-  </tr>
-</table>
+### ✨ Aura Barber
+`AI-Powered Development` | `React` | `TypeScript` | `CSS`
+
+A high-conversion landing page for barber services. Developed using **Lovable AI** for rapid prototyping and further enhanced with custom code for advanced functionality and pixel-perfect design.
+
+- **Strategic Implementation:** Leveraged AI-driven development to accelerate the build phase, followed by manual refactoring for optimized performance and scalability.
+- **Key Features:** Modern UI/UX, custom-built React components, and full TypeScript type safety.
+
+<p align="left">
+  <a href="https://aurabarber.vercel.app/" target="_blank">
+    <b>[ 🌐 Live Demo ]</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Jdiez93/auraBarber" target="_blank">
+    <b>[ 📁 GitHub Repository ]</b>
+  </a>
+</p>
 
 ---
+
+### 🩹 Fisio Marcos García
+`Astro` | `Tailwind CSS` | `HTML` | `JavaScript`
+
+A professional healthcare platform designed for a physiotherapy clinic, focusing on lightning-fast performance and SEO.
+
+- **Architecture:** Built with **Astro** to ensure minimal JavaScript overhead and a superior Core Web Vitals score.
+- **Design:** Styled with **Tailwind CSS** for a clean, professional look that prioritizes accessibility and clear information delivery for patients.
+
+<p align="left">
+  <a href="https://fisiomarcosgarcia.vercel.app/" target="_blank">
+    <b>[ 🌐 Live Demo ]</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Jdiez93/FisioMarcosGarc-a" target="_blank">
+    <b>[ 📁 GitHub Repository ]</b>
+  </a>
+</p>
+
+---
+
 
 ## 📊 Performance & Recognition
 
