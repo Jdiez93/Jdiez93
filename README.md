@@ -142,6 +142,7 @@ A professional healthcare platform designed for a physiotherapy clinic, focusing
 
 ## ❤️ Support my work
 If my projects inspire you or have been useful to you, you can support my work: 
+- 👤 **Follow me on GitHub** to stay updated with my latest projects.
 - ⭐ **Give my repositories a star** to help them grow 
 - 🔗 **Share my portfolio:** [jdr93portfolio.vercel.app](https://jdr93portfolio.vercel.app/)
 
