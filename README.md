@@ -21,6 +21,25 @@
 
 ---
 
+## 🤖 AI in Product: Development & Automation (Master's Focus)
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI-blue?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/Core%20Competency-Automation-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-No%20Code%20%26%20Low%20Code-green?style=flat-square" />
+</p>
+
+Through a Master's program focused on **IA Aplicada a Producto** (AI Applied to Product), I have developed a hands-on skillset to leverage advanced AI models in real-world product workflows and development:
+
+- 🧠 **AI Assistants & Productivity:** Leveraged advanced LLMs like **ChatGPT**, **Microsoft Copilot**, **Gemini**, and **Grok AI** to accelerate analysis, technical writing, development support, and documentation tasks.
+- ⚙️ **Automation & Flow Design:** Engineered logical automations with triggers and connectors for repeatable processes. Skilled in building complex workflows using powerful no-code/low-code platforms like **Make** and **n8n** to boost productivity.
+- 🏢 **AI in Microsoft 365:** Applied practical AI solutions within the Microsoft Office suite. Utilizing **AI in Excel**, **Word**, **PowerPoint**, and **Copilot** for tasks such as automated summaries, data analysis, content preparation, and advanced reporting.
+- 🚀 **AI-Powered Product Build:** Employed AI for rapid idea validation and development. Focused on quickly creating interfaces, generating content/structure, and iterating designs with criteria to bring concepts to life.
+
+This training has equipped me to not just build digital experiences, but to optimize them with intelligence.
+
+
+---
+
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/jorge-diez-rodriguez-4a7844293/" target="_blank">
