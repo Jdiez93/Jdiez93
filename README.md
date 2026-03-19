@@ -34,8 +34,16 @@ Through a Master's program focused on **IA Aplicada a Producto** (AI Applied to 
 - 🏢 **AI in Microsoft 365:** Applied practical AI solutions within the Microsoft Office suite. Utilizing **AI in Excel**, **Word**, **PowerPoint**, and **Copilot** for tasks such as automated summaries, data analysis, content preparation, and advanced reporting.
 - 🚀 **AI-Powered Product Build:** Employed AI for rapid idea validation and development. Focused on quickly creating interfaces, generating content/structure, and iterating designs with criteria to bring concepts to life.
 
-This training has equipped me to not just build digital experiences, but to optimize them with intelligence.
+---
 
+##  🤝 Working with me:
+> *Bridging the gap between high-level AI and scalable web architecture.*
+
+- ⚡ **Efficiency-First:** I leverage AI tools to accelerate the boilerplate and prototyping phases, allowing me to focus 100% on complex logic, security, and refined UX.
+- 🎯 **Product Mindset:** I don't just "write code." I analyze the business goal to ensure the technology I build actually solves the user's problem.
+- 🛡️ **Clean & Secure:** With a background in **Cybersecurity** and a passion for **Clean Code**, I deliver maintainable, well-documented, and robust applications.
+- 🌍 **Global Communication:** Experience working in **Ireland** and a **C1 English level** means I'm ready for international, remote, and multicultural teams.
+- 🔄 **Continuous Iteration:** I believe in the "Build-Measure-Learn" cycle. I use AI to iterate fast, gather feedback, and pivot towards the best solution.
 
 ---
 
