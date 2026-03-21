@@ -6,7 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=jdiez93&label=Profile%20views&color=0e75b6&style=flat" alt="jdiez93" />
 </p>
 
-<h3 align="center">I am a web developer passionate about creating useful, accessible and well-structured digital experiences. I work with modern technologies in both frontend and backend, always prioritizing functionality, code clarity and good architecture.</h3>
+<h3 align="center">I am a web developer dedicated to creating functional, accessible, and well-structured digital experiences. My approach combines mastery of modern frontend and backend technologies with a strong academic background in Artificial Intelligence.
+
+I prioritize code clarity, clean architecture, and the delivery of straightforward technical solutions that solve complex problems efficiently.</h3>
 
 <img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc2d25vOXpuZXhtdHBiZWRhaW0ydjdrMGU1NzlyZGQyM3V2Z2RpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
